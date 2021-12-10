@@ -9,10 +9,10 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
 -  **Studying :** Yeditepe University
--  **Learning :** Full-Stack :zap: | Open-Source and School :fire:	
+-  **Learning :** Android Studio :zap: | Open-Source and School :fire:	
 -  **Hobbies :** Hiking | Music :headphones:
 -  **Ask me about :** Anything!, I'm happy to help :v:
--  **Languages :** Python, JavaScript
+-  **Languages :** Python, JavaScript, Kotlin
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ✨ Visitors 
